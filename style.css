@@ -1,6 +1,13 @@
 .primary-background {
     background-color: rgba(254, 234, 233, 1);
 }
-.secondary-background {
-    background-color: rgba(255, 19, 111, 1);
+.background-btn-danger {
+    background-image: linear-gradient(to bottom, #ff1f76 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.categories img {
+    width: 100px;
 }
